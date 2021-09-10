@@ -1,0 +1,194 @@
+body{
+    position: absolute;
+}
+.first{
+    position: relative;
+    width: 100vw;
+    height: 70vh;
+}
+#background_video{
+    width: 100vw;
+    height: 90vh;
+    left: 0px;
+    right: 0px;
+    top: 0px;
+    bottom: 0px;
+    object-fit: cover;
+    z-index: -1;
+    
+    position: absolute;
+}
+.first1 {
+/* display: flex; */
+width: 100vw;
+/* justify-content: space-between; */
+height: 35vh;
+}
+#user_icon{
+height: 26px;
+width: 31px;
+border: 1px;
+border-radius: 50%;
+}
+#first11{
+    display: flex;
+    position: relative;
+    float: right;
+    margin-top: 21px;
+}
+#become_a_supplier{
+font-size: 30px;
+color: white;
+margin: 0px;
+margin-right: 18px;
+}
+#supply_image{
+    left: 12px;
+border-radius: 50%;
+border: 1px;
+width: 141px;
+height: 100px;
+position: relative;
+top: 10px;
+}
+.first2{
+
+position: relative;
+height: 30vh;
+align-items: center;
+justify-content: center;
+display: flex;
+flex-direction: column;
+
+}
+.first22{
+width: 50vw;
+display: flex;
+height: 35px;
+}
+.second{
+    display: flex;
+    flex-direction: column;
+    background: white;
+    width: 70vw;
+    left: 15vw;
+    position: relative;
+}
+.uu3{
+    display: flex;
+    padding: 10px;
+}
+.uu1{
+    width: 17vw;
+}
+.uu2{
+   width: 17vw;
+}
+.uu5{
+    font-size: 20px;
+    color: black;
+}
+.second3 {
+    position: relative;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    /* width: 253px; */
+}
+.second31 {
+    border: 1px;
+    height: 39px;
+    width: 243px;
+    border-radius: 40px;
+    background: black;
+    color: white;
+}
+.uu6 {
+    height: 75px;
+    width: 75px;
+}
+.forth{
+    font-size: 40px;
+    display: flex;
+    justify-content: center;
+}
+.five{
+    display: flex;
+}
+.uu7{
+    width: 33vw;
+    text-align: center;
+    border: 1px solid rosybrown;
+}
+.uu7 > img{
+    width: 50px;
+    
+   
+}
+.six1{
+    position: relative;
+    font-size: 34px;
+    display: flex;
+    justify-content: center;
+}
+.seven{
+    display: flex;
+}
+.seven1 , .seven2 , .seven3 , .seven4{
+    width: 25vw;
+    border: 1px solid darkgray;
+    text-align: center;
+}
+hr{
+    width: 85%;
+}
+.uu8 > img{
+    height: 156px;
+}
+.uu8 > button{
+
+        height: 30px;
+        width: 80px;
+        background: silver;
+}
+.uu8 > p {
+    font-size: 20px;
+    color: darkblue;
+}
+.eight {
+    display: flex;
+    justify-content: center;
+    height: 20vh;
+    align-items: center;
+}
+.eight > button{
+    background: darkturquoise;
+    width: 273px;
+    height: 50px;
+    font-size: 24px;
+    border-radius: 1p;
+    border-radius: 10px;
+}
+.ten{
+    display: flex;
+height: 220px;
+        background: beige;
+}
+.ten1 , .ten2{
+    width: 50vw;
+    text-align: center;
+}
+.ten2 > p{
+    font-size: 37px;
+}
+.ten1{
+    position: relative;
+    top: 50px;
+}
+.ten2 > input{
+    width: 249px;
+    height: 25px;
+    /* border: 15px; */
+    border-radius: 3px;
+    margin: 2px;
+}
